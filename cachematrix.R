@@ -1,4 +1,4 @@
-## these 2 functions together will cache the inverse of a matrix
+## these 2 functions together will cache the inverse of a matrixdown
 
 ## this function exposes 4 member functions: set, get, setInverse, getInverse
 ## this stores the inverse of a matrix in cache
